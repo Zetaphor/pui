@@ -1,0 +1,5 @@
+asyncio
+websockets==10.4
+aiohttp==3.8.4
+prompt_toolkit==3.0.38
+requests
