@@ -2,6 +2,8 @@
 
 This project is a TUI (Text User Interface) chat client for the Bluesky social network. It allows users to connect to Bluesky, view incoming messages, and send posts directly from the terminal.
 
+![Screenshot of the TUI](https://github.com/Zetaphor/pui/blob/main/screenshot.png?raw=true)
+
 ## Requirements
 
 - Python 3.7+
